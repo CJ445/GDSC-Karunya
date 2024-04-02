@@ -1,4 +1,4 @@
-![image](https://github.com/CJ445/GDSC-Karunya/assets/131938772/e44f7618-677b-41cb-ab6c-ef77868393f5)# How it looks
+# How it looks
 
 ### Event page 
 ![image](https://github.com/CJ445/GDSC-Karunya/assets/131938772/cd5c8626-b63a-42a8-9d5a-5d5ba0af299a)
