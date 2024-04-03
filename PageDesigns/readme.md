@@ -11,6 +11,8 @@
 
 ![image](https://github.com/CJ445/GDSC-Karunya/assets/131938772/9db729c2-680f-430e-809a-99eaf09f20b0)
 
+## Home Page
 
+![image](https://github.com/CJ445/GDSC-Karunya/assets/131938772/93bd5903-c00e-4ba7-a770-f286f4464ca1)
 
 
